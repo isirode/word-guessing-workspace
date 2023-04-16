@@ -1,0 +1,22 @@
+{
+  "name": "word-guessing-workspace",
+  "version": "0.0.0",
+  "description": "Lerna workspace for the word-guessing game",
+  "main": "",
+  "scripts": {
+    "lerna": "lerna bootstrap --hoist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isirode/word-guessing-workspace.git"
+  },
+  "author": "",
+  "license": "AGPLv3",
+  "bugs": {
+    "url": "https://github.com/isirode/word-guessing-workspace/issues"
+  },
+  "homepage": "https://github.com/isirode/word-guessing-workspace#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
